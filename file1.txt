@@ -3,4 +3,4 @@ Estoy tomando el curso de Git y Github
 
 Segundo dia tomando el curso
 
-Ayer hice mi primer dibujo realista
+Ayer hice mi primer dibujo realista y acabo de hacer mi primer archivo html y css
